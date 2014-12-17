@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>salut</title>
+  </head>
+  <body>
+    <p>appuie sur le bouton</p>
+    <button id="btn">Clique ici!</button>
+  </body>
+</html>
